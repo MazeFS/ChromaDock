@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WidgetLauncher\WidgetLauncherCpp.vcxproj" Id="4f858e9e-b296-4758-992d-28bd731399f5" />
+</Solution>
